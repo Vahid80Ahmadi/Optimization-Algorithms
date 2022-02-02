@@ -146,6 +146,7 @@ function i=Roulett(p)
     i=find(r<=c,1,'first');
 end
 
+
 function pplloott(path,model)
     
     figure(1)
